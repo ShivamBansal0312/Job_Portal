@@ -1,0 +1,22 @@
+.search-content-box {
+  min-height: 70vh;
+  text-align: center;
+  padding: 60px 60px;
+}
+
+.form-wrapper-job-search {
+  display: flex;
+  justify-content: center;
+}
+
+.job-search-box {
+  padding: 50px 0px;
+}
+
+.search-job-input-item {
+  margin-right: 20px;
+}
+
+/* .search-job-input-field {
+  padding:px 10px;
+} */

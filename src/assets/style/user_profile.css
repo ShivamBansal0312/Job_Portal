@@ -1,0 +1,25 @@
+.job-seeker-multilevelform-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f6f7f9;
+  min-height: 80vh;
+
+  padding: 50px 0px;
+}
+
+.job-seeker-multilevelform {
+  width: 70%;
+  border: 1px solid #eee;
+  padding: 20px 60px;
+  background: #fff;
+  border-radius: 2px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.job-seeker-multilevelform-header {
+  text-align: center;
+}
+
+.prev-btn-multilevel-form {
+  margin-right: 40px;
+}

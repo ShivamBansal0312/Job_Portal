@@ -1,0 +1,40 @@
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+.jobslist h2 {
+  margin-top: 0px;
+  border-bottom: 3px solid #844646c7;
+  margin-bottom: 30px;
+}
+
+.jobslist label {
+  margin-left: 5px;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.joblist-section {
+  padding: 10px;
+  text-align: left;
+  color: rgb(129, 129, 129);
+  box-shadow: 0 2px 4px rgba(3, 27, 78, 0.1);
+  margin-bottom: 30px;
+}
+
+.joblist-section p {
+  margin: 0px;
+  margin-right: 30px;
+  font-size: 12px;
+}
+
+.joblist-header {
+  text-align: left;
+}
